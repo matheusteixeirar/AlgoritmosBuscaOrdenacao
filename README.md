@@ -14,7 +14,3 @@
 - **Merge Sort:** Divide a lista em duas metades recursivamente até que cada sublista tenha apenas um elemento. Em seguida, mescla as sublistas em ordem crescente, comparando os valores das duas metades e inserindo o menor na lista final.
 - **Quick Sort:** Escolhe um pivô (ultimo elemento) e passa para a esquerda dele todos os elementos menores que ele e para a direita todos os elementos maiores que ele. Assim, a posição do pivô fica correta na lista final. Faz isso recursivamente até ordernar toda a lista.
 - **Heap Sort:** Verifica se os filhos são maiores que os pais recursivamente até o maior elemento ficar na raiz. Esse maior elemento é trocado com o último elemento da lista. Aplica o método recursivo novamente para que o próximo maior elemento fique na raiz. Esse processo se repete ate que toda a lista esteja ordenada
-
-### Exclusão: <h3>
-- Exclusão Física: Remove permanentemente o registro de um dado.
-- Exclusão Lógica: Marca o registro como inativo, utilizando um campo booleano ou de status, sem removê-lo fisicamente.
